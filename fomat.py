@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 #Filename: fomat.py
 age = 20
 name="小明"

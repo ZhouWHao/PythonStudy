@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 i = 32
 print(i)
 a = 2; a *= 3
