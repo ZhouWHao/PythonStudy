@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 def sayHello():
     print('Hello World!') #属于函数的块
 #结束函数

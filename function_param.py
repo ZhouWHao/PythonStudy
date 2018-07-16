@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 def printMax(a,b):
     if a>b:
         print(a,'是最大的值')
@@ -7,3 +7,8 @@ def printMax(a,b):
     else:
         print(str(a)+'和'+str(b)+'是相同的')
 printMax(100,100)
+
+x = 5
+y = 7
+
+printMax(x,y)
